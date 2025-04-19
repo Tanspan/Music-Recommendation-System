@@ -158,8 +158,8 @@ def main(client_id, client_secret, playlist_id, selected_track_name, top_n=10):
     plot_recommendations(recommendations)
 
 # Input Parameters
-CLIENT_ID = 'eb10f689c74146b9a8e215e688cce191'
-CLIENT_SECRET = '7fcfde395f0e46bca0e377856ef1194b'
+CLIENT_ID = 'your_client_id'
+CLIENT_SECRET = 'your_secret_key'
 PLAYLIST_ID = '7bczOWUTWDDVRX09GCQakM'
 SELECTED_TRACK_NAME = 'Lucid Dreams'
 TOP_N_RECOMMENDATIONS = 10
